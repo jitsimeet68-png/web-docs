@@ -1,0 +1,17 @@
+id,url,title,status,path,updated_at
+SRC-001,https://docs.openwebui.com/features/plugin/,Tools & Functions (Plugins),doc_created,docs/notes/001_plugins_overview.md,2025-11-10T11:40:00Z
+SRC-002,https://docs.openwebui.com/features/plugin/tools/,Tools Overview,doc_created,docs/notes/002_tools_usage.md,2025-11-10T11:41:00Z
+SRC-003,https://docs.openwebui.com/features/plugin/tools/development,Tool Development Guide,doc_created,docs/notes/003_tool_development.md,2025-11-10T11:42:00Z
+SRC-004,https://docs.openwebui.com/features/plugin/functions/,Functions Overview,doc_created,docs/notes/004_functions_overview.md,2025-11-10T11:43:00Z
+SRC-005,https://docs.openwebui.com/features/plugin/functions/pipe,Pipe Function Guide,doc_created,docs/notes/005_pipe_functions.md,2025-11-10T11:44:00Z
+SRC-006,https://docs.openwebui.com/features/plugin/functions/filter,Filter Function Guide,doc_created,docs/notes/006_filter_functions.md,2025-11-10T11:45:00Z
+SRC-007,https://docs.openwebui.com/features/plugin/functions/action,Action Function Guide,doc_created,docs/notes/007_action_functions.md,2025-11-10T11:46:00Z
+SRC-008,https://docs.openwebui.com/features/plugin/events/,Events Reference,doc_created,docs/notes/008_events_reference.md,2025-11-10T11:47:00Z
+SRC-009,https://docs.openwebui.com/features/plugin/valves,Valves & UserValves,doc_created,docs/notes/009_valves_basics.md,2025-11-10T11:48:00Z
+SRC-010,https://docs.openwebui.com/features/plugin/migration,Migration 0.4 to 0.5,doc_created,docs/notes/010_migration_guide.md,2025-11-10T11:49:00Z
+SRC-011,https://docs.openwebui.com/features/pipelines/,Pipelines Overview,doc_created,docs/notes/011_pipelines_overview.md,2025-11-10T11:50:00Z
+SRC-012,https://docs.openwebui.com/features/pipelines/pipes,Pipes Reference,doc_created,docs/notes/012_pipes_reference.md,2025-11-10T11:51:00Z
+SRC-013,https://docs.openwebui.com/features/pipelines/filters,Pipeline Filters Reference,doc_created,docs/notes/013_pipeline_filters.md,2025-11-10T11:52:00Z
+SRC-014,https://docs.openwebui.com/features/pipelines/valves,Pipeline Valves Reference,doc_created,docs/notes/014_pipeline_valves.md,2025-11-10T11:53:00Z
+SRC-015,https://docs.openwebui.com/features/pipelines/tutorials,Pipeline Tutorials,doc_created,docs/notes/015_pipeline_tutorials.md,2025-11-10T11:54:00Z
+SRC-016,https://github.com/open-webui/functions,Curated Functions Repository,doc_created,docs/notes/016_functions_repo.md,2025-11-10T11:55:00Z
